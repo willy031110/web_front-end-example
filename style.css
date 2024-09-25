@@ -68,3 +68,19 @@ body {
     /* 陰影 */
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
+.btn-custom-1 {
+    background-color: #040404 !important; /* 自訂背景色 */
+    color: rgb(68, 225, 29) !important; /* 調整文字顏色 */
+}
+.btn-custom-2 {
+    background-color: #d01049 !important; /* 自訂背景色 */
+    color: rgb(233, 159, 22) !important; /* 調整文字顏色 */
+}
+.btn-custom-3 {
+    background-color: #4fe11a !important; /* 自訂背景色 */
+    color: rgb(215, 194, 33) !important; /* 調整文字顏色 */
+}
+.btn-custom-4 {
+    background-color: #ca0da7 !important; /* 自訂背景色 */
+    color: rgb(68, 225, 29) !important; /* 調整文字顏色 */
+}
