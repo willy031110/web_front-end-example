@@ -84,3 +84,9 @@ body {
     background-color: #ca0da7 !important; /* 自訂背景色 */
     color: rgb(68, 225, 29) !important; /* 調整文字顏色 */
 }
+#app{
+    width: 100px;
+    height: 100px;
+    background-color: #040404;
+
+}
